@@ -1,0 +1,43 @@
+.home-top{
+	position:relative;
+	min-height: 100vh;
+}
+.home-top:before{
+	content:"";
+	position:absolute;
+	left:0;
+	top:0;
+	right:40%;
+	bottom:0;
+	background:url("../assets/Home/bckimg1.png") repeat 0 0;
+	z-index:-1;
+	background-size: cover;
+}
+.home-top:after{
+	content:"";
+	position:absolute;
+	left:50%;
+	top:0;
+	right:0;
+	bottom:0;
+	background: url("../assets/Home/bckimg2.png") repeat 0 0;
+	z-index:-1;
+	background-size: cover;
+}
+
+.home-top_small{
+	position:relative;
+	min-height: 100vh;
+}
+.home-top_small:after {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: url("../assets/Home/bckimg1.png");
+	background-size:  cover;
+	z-index: -1;
+}
+

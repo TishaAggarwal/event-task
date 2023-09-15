@@ -1,0 +1,363 @@
+.eve {
+    font-family: "Times New Roman", Times, serif;
+font-size: 17px;
+font-weight: 700;
+color: #FFF;
+margin-left: 50px;
+margin-top: 60px;
+}
+
+
+.eve-div {
+    width: 1580px;
+    height: 55px;
+    border-radius: 5px;
+    border: 1px solid #D9D9D9;  
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.eve1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: #FFF;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.btn1 {
+    width: 91px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #6C63FF;
+    margin-left: 1300px;
+    margin-top: -30px;
+    
+}
+
+.btn-p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 23px;
+    font-weight: 700;
+    color: black;
+    margin-left: 30px;
+    margin-top: -26px;
+}
+
+.btns-1 {
+    width: 120px;
+    height: 48px;
+    border-radius: 15px;
+    background-color: #226286;
+    margin-left: 1060px;
+    margin-top: -40px;
+    
+}
+
+.btnsp1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin-left: 15px;
+    padding-top: 7px;
+}
+
+.edit-img {
+    width: 20px;
+    height: 30px;
+    margin-bottom: -15px;
+}
+
+.exp {
+    width: 160px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #200DFF;
+    margin-left: 1410px;
+    margin-top: -40px;
+}
+
+.exp-p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 22px;
+    font-weight: 900;
+    color: black;
+    margin-left: 35px;
+}
+
+@media screen and (max-width: 943px)  { 
+    .eve{
+        font-family: "Times New Roman", Times, serif;
+    font-size: 10px;
+    font-weight: 700;
+    color: #FFF;
+    margin-left: 20px;
+    margin-top: 60px;
+    }
+    
+    
+    .eve-div {
+        width: 900px;
+        height: 55px;
+        border-radius: 5px;
+        border: 1px solid #D9D9D9;  
+        margin-left: 10px;
+        margin-top: 60px;
+    }
+    
+    .eve1 {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 6.9px;
+        font-weight: 700;
+        color: #FFF;
+        margin-left: 5px;
+        margin-top: 20px;
+    }
+    
+    .btn1 {
+        width: 60px;
+        height: 25px;
+        border-radius: 10px;
+        background-color: #6C63FF;
+        margin-left: 740px;
+        margin-top: -20px;
+        
+    }
+    
+    .btn-p {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 15px;
+        font-weight: 700;
+        color: black;
+        margin-left: 20px;
+        margin-top: -20px;
+    }
+    
+    .btns-1 {
+        width: 120px;
+        height: 48px;
+        border-radius: 15px;
+        background-color: #226286;
+        margin-left: 1060px;
+        margin-top: -40px;
+        
+    }
+    
+    .btnsp1 {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: white;
+        margin-left: 15px;
+        padding-top: 7px;
+    }
+    
+    .edit-img {
+        width: 15px;
+        height: 20px;
+        margin-bottom: -15px;
+    }
+    
+    .exp {
+        width: 70px;
+        height: 30px;
+        margin-left: 820px;
+        margin-top: -30px;
+    }
+    
+    .exp-p {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 10px;
+        font-weight: 900;
+        color: black;
+        margin-left: 16px;
+        padding-top: 8px;
+    }
+    
+}
+
+@media screen and (max-width:650px) {
+    .eve{
+        font-family: "Times New Roman", Times, serif;
+    font-size: 6px;
+    font-weight: 700;
+    color: #FFF;
+    margin-left: 15px;
+    margin-top: 60px;
+    }
+    
+    
+    .eve-div {
+        width: 550px;
+        height: 55px;
+        border-radius: 5px;
+        border: 1px solid #D9D9D9;  
+        margin-left: 7px;
+        margin-top: 60px;
+    }
+    
+    .eve1 {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 4.1px;
+        font-weight: 700;
+        color: #FFF;
+        margin-left: 5px;
+        margin-top: 20px;
+    }
+    
+    .btn1 {
+        width: 35px;
+        height: 20px;
+        border-radius: 10px;
+        background-color: #6C63FF;
+        margin-left: 450px;
+        margin-top: -15px;
+        
+    }
+    
+    .btn-p {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 8px;
+        font-weight: 700;
+        color: black;
+        margin-left: 10px;
+        margin-top: 5px;
+    }
+    
+    .btns-1 {
+        width: 120px;
+        height: 48px;
+        border-radius: 15px;
+        background-color: #226286;
+        margin-left: 1060px;
+        margin-top: -40px;
+        
+    }
+    
+    .btnsp1 {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: white;
+        margin-left: 15px;
+        padding-top: 7px;
+    }
+    
+    .edit-img {
+        width: 10px;
+        height: 15px;
+        margin-bottom: -15px;
+    }
+    
+    .exp {
+        width: 55px;
+        height: 25px;
+        margin-left: 490px;
+        margin-top: -23px;
+    }
+    
+    .exp-p {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 10px;
+        font-weight: 900;
+        color: black;
+        margin-left: 10px;
+        padding-top: 8px;
+    }
+}
+
+
+@media screen and (max-width:441px) and (min-width:370px) {
+    .eve{
+        font-family: "Times New Roman", Times, serif;
+    font-size: 4px;
+    font-weight: 700;
+    color: #FFF;
+    margin-left: 10px;
+    margin-top: 60px;
+    }
+    
+    
+    .eve-div {
+        width: 360px;
+        height: 55px;
+        border-radius: 5px;
+        border: 1px solid #D9D9D9;  
+        margin-left: 7px;
+        margin-top: 60px;
+    }
+    
+    .eve1 {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 2.7px;
+        font-weight: 700;
+        color: #FFF;
+        margin-left: 5px;
+        margin-top: 20px;
+    }
+    
+    .btn1 {
+        width: 30px;
+        height: 15px;
+        border-radius: 10px;
+        background-color: #6C63FF;
+        margin-left: 290px;
+        margin-top: -10px;
+        
+    }
+    
+    .btn-p {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 6px;
+        font-weight: 700;
+        color: black;
+        margin-left: 15px;
+        margin-top: 5px;
+    }
+    
+    .btns-1 {
+        width: 120px;
+        height: 48px;
+        border-radius: 15px;
+        background-color: #226286;
+        margin-left: 1060px;
+        margin-top: -40px;
+        
+    }
+    
+    .btnsp1 {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: white;
+        margin-left: 15px;
+        padding-top: 7px;
+    }
+    
+    .edit-img {
+        width: 10px;
+        height: 10px;
+        margin-bottom: -15px;
+        margin-left: 3px;
+    }
+    
+    .exp {
+        width: 30px;
+        height: 15px;
+        margin-left: 325px;
+        margin-top: -16px;
+    }
+    
+    .exp-p {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 6px;
+        font-weight: 900;
+        color: black;
+        margin-left: 4px;
+        padding-top: 6px;
+    }
+    
+
+}

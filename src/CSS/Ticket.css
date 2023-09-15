@@ -1,0 +1,150 @@
+.holder {
+    width: 961px;
+    height: 600px;
+    margin-left: 350px;
+}
+
+.white {
+    width: 738px;
+    height: 250px;
+    margin-left: 460px;
+    margin-top: -500px;
+}
+
+.ticket {
+    width: 710px;
+    height: 229px;
+    margin-left: 473px;
+    margin-top: -240px;
+}
+
+.ticket-btn {
+    background-color: #D807FA;
+width: 424px;
+height: 62px;
+border-radius: 20px;
+margin-left:600px ;
+margin-top: 50px;
+}
+
+.ticket-p {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 70px;
+    padding-top: 10px;
+}
+
+@media screen and (max-width: 943px)  { 
+    .holder {
+        width: 700px;
+        height: 400px;
+        margin-left: 100px;
+    }
+    
+    .white {
+        width: 550px;
+        height: 200px;
+        margin-left: 180px;
+        margin-top: -350px;
+    }
+    
+    .ticket {
+        width: 530px;
+        height: 180px;
+        margin-left: 190px;
+        margin-top: -190px;
+    }
+    
+    .ticket-btn {
+        background-color: #D807FA;
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left:300px ;
+    margin-top: 50px;
+    }
+    
+    .ticket-p {
+        color: white;
+        font-family: "Times New Roman", Times, serif;
+        font-weight: 700;
+        font-size: 20px;
+        margin-left: 50px;
+        padding-top: 10px;
+    }
+    
+}
+
+@media screen and (max-width:700px) {
+    .holder {
+        width: 600px;
+        height: 400px;
+        margin-left: 50px;
+    }
+    
+    .white {
+        width: 550px;
+        height: 200px;
+        margin-left: 80px;
+        margin-top: -350px;
+    }
+    
+    .ticket {
+        width: 530px;
+        height: 180px;
+        margin-left: 90px;
+        margin-top: -190px;
+    }
+    
+    .ticket-btn {
+        background-color: #D807FA;
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left:200px ;
+    margin-top: 50px;
+    }
+
+}
+
+@media screen and (max-width:441px) and (min-width:370px) {
+    .holder {
+        width: 330px;
+        height: 300px;
+        margin-left: 20px;
+    }
+    
+    .white {
+        width: 300px;
+        height: 100px;
+        margin-left: 40px;
+        margin-top: -290px;
+    }
+    
+    .ticket {
+        width: 280px;
+        height: 90px;
+        margin-left: 50px;
+        margin-top: -95px;
+    }
+    
+    .ticket-btn {
+        background-color: #D807FA;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left:90px ;
+    margin-top: 50px;
+    }
+    .ticket-p {
+        color: white;
+        font-family: "Times New Roman", Times, serif;
+        font-weight: 700;
+        font-size: 12px;
+        margin-left: 40px;
+        padding-top: 10px;
+    }
+
+}
