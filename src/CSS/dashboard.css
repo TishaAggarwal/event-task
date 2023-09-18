@@ -468,13 +468,13 @@ margin-left: 1220px;
 @media screen and (max-width:650px) {
 
     .main-content{
-        margin-left: -80px;
+        margin-left: 10px;
      }
 
     .dash-head {
         margin-left: 140px;
         margin-top: -1060px;
-        width: 300px;
+        width: 600px;
         background-color: #C508C1;
         border-radius: 40px;
         height: 70px;
@@ -484,7 +484,7 @@ margin-left: 1220px;
         font-size: 20px;
         color: black;
         font-family: "Times New Roman", Times, serif;
-        margin-left: 60px;
+        margin-left: 200px;
         font-weight: 700;
     }
     
@@ -510,7 +510,7 @@ margin-left: 1220px;
         width: 70px;
         height: 62px;
         border-radius: 60px;
-        margin-left: 500px;
+        margin-left: 800px;
     }
     
     .notif {
@@ -522,7 +522,7 @@ margin-left: 1220px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-        margin-left: 500px;
+        margin-left: 800px;
         margin-top:5px;
     }
     
@@ -531,14 +531,14 @@ margin-left: 1220px;
         width: 200px;
         height: 130px;
         border-radius: 40px;
-        margin-left:400px;
+        margin-left:700px;
         margin-top: -30px;
     }
     
     .org {
     width: 140px;
     height: 86px;
-    margin-left: 450px;
+    margin-left: 720px;
     margin-top: 100px;
     }
     
@@ -556,7 +556,7 @@ margin-left: 1220px;
         color: #C508C1;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-      margin-left: 130px;
+      margin-left: 250px;
       margin-top: -150px;
       width:419px;
       height: 173px;
@@ -567,18 +567,26 @@ margin-left: 1220px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-        margin-left: 200px;
+        margin-left: 300px;
         margin-top: 70px;
         width: 500px;
         
     }
+
+      
+    .bar-chart {
+        width: 800px;
+        margin-left: 55px;
+        margin-top: -10px;
+    }
+    
     
     .table-head {
         font-size: 12px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-        margin-left: 20px;
+        margin-left: 150px;
         margin-top: 70px;
     }
     
@@ -587,6 +595,7 @@ margin-left: 1220px;
         background-color: #D50AF5;
          height: 4px;
          width:640px;
+         margin-left: 125px;
     }
     
     .digital {
@@ -595,6 +604,7 @@ margin-left: 1220px;
         height: 41px;
         border-radius: 50px;
         margin-top: 20px;
+        margin-left: 120px;
     }
     
     .digi-p {
@@ -611,7 +621,7 @@ margin-left: 1220px;
         width: 38px;
         height: 38px;
         border-radius: 20px;
-        margin-left: 420px;
+        margin-left: 550px;
         margin-top: -35px;
     }
     
@@ -629,7 +639,7 @@ margin-left: 1220px;
     width: 100px;
     height: 38px;
     border-radius: 50px;
-    margin-left: 540px;
+    margin-left: 670px;
     }
     
     .order-p {
@@ -646,7 +656,7 @@ margin-left: 1220px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 300;
-        margin-left: 10px;
+        margin-left: 140px;
         margin-top: 30px;
     }
     
@@ -655,6 +665,7 @@ margin-left: 1220px;
         background-color: #D50AF5;
         border: 1px solid #D50AF5;
         width:640px;
+        margin-left: 130px;
     }
     
     .f2-head {
@@ -662,7 +673,7 @@ margin-left: 1220px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 300;
-        margin-left: 10px;
+        margin-left: 140px;
         margin-top: 30px;
     }
     
@@ -671,6 +682,7 @@ margin-left: 1220px;
         background-color: #D50AF5;
         border: 1px solid #D50AF5;
         width:640px;
+        margin-left: 130px;
     }
     
     .f3-head {
@@ -678,7 +690,7 @@ margin-left: 1220px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 300;
-        margin-left: 10px;
+        margin-left: 140px;
         margin-top: 30px;
     }
     
@@ -687,26 +699,32 @@ margin-left: 1220px;
         background-color: #D50AF5;
         border: 1px solid #D50AF5;
         width:640px;
+        margin-left: 130px;
     }
 }
 
 
 @media screen and (max-width:441px) and (min-width:370px) {
    
+
+    .main-content{
+        margin-left: 10px;
+     }
+
     .dash-head {
-        margin-left: 100px;
+        margin-left: 140px;
         margin-top: -1060px;
-        width: 200px;
+        width: 600px;
         background-color: #C508C1;
         border-radius: 40px;
         height: 70px;
     }
     
     .p-head {
-        font-size: 15px;
+        font-size: 20px;
         color: black;
         font-family: "Times New Roman", Times, serif;
-        margin-left: 60px;
+        margin-left: 200px;
         font-weight: 700;
     }
     
@@ -722,8 +740,8 @@ margin-left: 1220px;
     
     
     .bar-chart {
-        width: 380px;
-        margin-left: 55px;
+        width: 570px;
+        margin-left: 70px;
         margin-top: -10px;
     }
     
@@ -732,7 +750,7 @@ margin-left: 1220px;
         width: 70px;
         height: 62px;
         border-radius: 60px;
-        margin-left: 340px;
+        margin-left: 800px;
     }
     
     .notif {
@@ -744,63 +762,71 @@ margin-left: 1220px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-        margin-left: 330px;
+        margin-left: 800px;
         margin-top:5px;
     }
     
     .org-head {
         background-color: #C508C1;
-        width: 150px;
-        height: 100px;
+        width: 200px;
+        height: 130px;
         border-radius: 40px;
-        margin-left:270px;
-        margin-top: -40px;
+        margin-left:700px;
+        margin-top: -30px;
     }
     
     .org {
     width: 140px;
     height: 86px;
-    margin-left: 300px;
+    margin-left: 720px;
     margin-top: 100px;
     }
     
     .p-org {
-        font-size: 20px;
+        font-size: 28px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-        padding-top: 30px;
+        padding-top: 50px;
         padding-left: 5px;
     }
     
     .rating {
-        font-size: 40px;
+        font-size: 80px;
         color: #C508C1;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-      margin-left: 130px;
+      margin-left: 250px;
       margin-top: -150px;
       width:419px;
       height: 173px;
     }
     
     .heading {
-        font-size: 20px;
+        font-size: 25px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-        margin-left: 120px;
+        margin-left: 300px;
         margin-top: 70px;
         width: 500px;
         
     }
+
+      
+    .bar-chart {
+        width: 800px;
+        margin-left: 55px;
+        margin-top: -10px;
+    }
+    
     
     .table-head {
-        font-size: 8px;
+        font-size: 12px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 700;
-        margin-left: 20px;
+        margin-left: 150px;
         margin-top: 70px;
     }
     
@@ -808,23 +834,25 @@ margin-left: 1220px;
        flex: 1;
         background-color: #D50AF5;
          height: 4px;
-         width:430px;
+         width:640px;
+         margin-left: 125px;
     }
     
     .digital {
         background-color:#FFFFFF ;
-        width: 100px;
+        width: 200px;
         height: 41px;
         border-radius: 50px;
         margin-top: 20px;
+        margin-left: 120px;
     }
     
     .digi-p {
      color: black;
-     font-size: 10px;
+     font-size: 12px;
      font-family: "Times New Roman", Times, serif;
      font-weight: 700;
-     margin-left: 20px;
+     margin-left: 40px;
      
     }
     
@@ -833,8 +861,8 @@ margin-left: 1220px;
         width: 38px;
         height: 38px;
         border-radius: 20px;
-        margin-left: 280px;
-        margin-top: -40px;
+        margin-left: 550px;
+        margin-top: -35px;
     }
     
     .digi-7 {
@@ -848,15 +876,15 @@ margin-left: 1220px;
     
     .order {
     background-color: #D9D9D9;
-    width: 90px;
-    height: 36px;
+    width: 100px;
+    height: 38px;
     border-radius: 50px;
-    margin-left: 340px;
+    margin-left: 670px;
     }
     
     .order-p {
         color: black;
-        font-size: 22px;
+        font-size: 24px;
         font-family: "Times New Roman", Times, serif;
         font-weight: 400;
        margin-top: -35px;
@@ -864,11 +892,11 @@ margin-left: 1220px;
     }
     
     .f1-head {
-        font-size: 6.6px;
+        font-size: 9.7px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 300;
-        margin-left: 10px;
+        margin-left: 140px;
         margin-top: 30px;
     }
     
@@ -876,15 +904,16 @@ margin-left: 1220px;
         flex: 1;
         background-color: #D50AF5;
         border: 1px solid #D50AF5;
-        width:430px;
+        width:640px;
+        margin-left: 130px;
     }
     
     .f2-head {
-        font-size: 6.6px;
+        font-size: 9.7px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 300;
-        margin-left: 10px;
+        margin-left: 140px;
         margin-top: 30px;
     }
     
@@ -892,15 +921,16 @@ margin-left: 1220px;
         flex: 1;
         background-color: #D50AF5;
         border: 1px solid #D50AF5;
-        width:430px;
+        width:640px;
+        margin-left: 130px;
     }
     
     .f3-head {
-        font-size: 6.6px;
+        font-size: 9.7px;
         color: white;
         font-family: "Times New Roman", Times, serif;
         font-weight: 300;
-        margin-left: 10px;
+        margin-left: 140px;
         margin-top: 30px;
     }
     
@@ -908,6 +938,7 @@ margin-left: 1220px;
         flex: 1;
         background-color: #D50AF5;
         border: 1px solid #D50AF5;
-        width:430px;
+        width:640px;
+        margin-left: 130px;
     }
 }
