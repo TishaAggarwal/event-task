@@ -1,4 +1,5 @@
-import React from "react";
+import React , { useState } from "react";
+
 import notification from "../assets/Dashboard/notification.png";
 import customer from "../assets/Dashboard/customer.png";
 import events from "../assets/Dashboard/events.png";
@@ -19,6 +20,7 @@ import {
 import "../CSS/dashboard.css";
 
 function Dashboard() {
+
   const data = [
     {
       name: "MEDITATION CLASSES",
@@ -59,18 +61,24 @@ function Dashboard() {
    
   ];
 
+
   return (
     <div className="black" >
-            <div className="notif-div">
-          <img  src={require('../assets/Dashboard/notification.png')} alt="notification" className='notif'/>
-          </div>
-          <p className="notif-p">Notification</p>
         <div className="sidebar-ico">
           <Sidebar />
+          </div>
+          <div className="main-content">
+            
+      
      
           <div className="dash-head">
          <p className="p-head"> YOUR DASHBOARD</p>
             </div>
+
+            <div className="notif-div">
+          <img  src={require('../assets/Dashboard/notification.png')} alt="notification" className='notif'/>
+          </div>
+          <p className="notif-p">Notification</p>
 
             <img  src={require('../assets/Dashboard/organizer.png')} alt="organizers" className='org'/>
             <div className="org-head">
@@ -181,14 +189,15 @@ function Dashboard() {
 
           <div className="line3"  />
          
-          </div>
-         
+
       <Footer  />
     </div>
+
+    </div>
+  
   );
 }
 
 export default Dashboard;
-
 
 
